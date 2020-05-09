@@ -436,3 +436,12 @@ BesTV4k,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 CCTV4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 爱上4K,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
 真4k,http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
+DOX,#genre#
+DOX院线,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=8a7d213b10550559a073db188d08d5f7
+DOX雅趣,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=98a5538384f14ca487ca96786a441bbe
+DOX新知,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=8df92ef18e714e80bc302723d5e933ee
+DOX新艺,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=3fec5428637fe3d00cea8deb981ca71c
+DOX怡家,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=9c6e3fd0b37dd8b7e4bc1f06c44cb6cf
+DOX英伦,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=21e5f6a02640bf440df4c079b4c3ad23
+DOX映画,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=e16878a022c216b17975299a9ac369dc
+DOX美剧,http://116.171.246.15:5005/nn_live/nn_x64/aWQ9MjMyLTEwLTItMzkmbm5fYWs9MDFkYWUxZjc1M2RlNzFjYjRmMTU3ZjRkZDYwN2M0OWE5YiZudHRsPTEmbnBpcHM9MTAuMjEuMTYuMTUxOjUxMDAmbmNtc2lkPTExMDEyNSZuZ3M9NWUzNTExMmEwMDBiZmVhZTZjMDhmZmM2YjA5MTNjZTAmbm5kPWd6Z2QuaW50ZXJuZXQmbnNkPWd6Z2QuaW50ZXJuZXQmbmZ0PXRzMm0zdTgmbm5fdXNlcl9pZD0wMTAxMDExNjA5MTIwMTAwMDMxMyZuZHQ9c3RiJm5kdj0xLjAuMC4wLjAuU0MtR1pHRC1BUEFELjAuMF9SZWxlYXNlJm5zdD1pcHR2Jm5jYT0lMjZubl9jcCUzZEdaR0QmbmFsPTAxMmExMTM1NWUwNjA3NDM1NmRjZGNkMWMzMjU4ODk5ZGUyOTI5Y2E1M2QxMWQ,/232-10-2-39.m3u8
