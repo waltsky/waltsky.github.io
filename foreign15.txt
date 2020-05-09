@@ -1,0 +1,108 @@
+放映广告,https://jxpan.vip/file/90489/EGROjTrR/fxgg.mp4
+放映TV,https://jxpan.vip/file/90489/zvDc0QoA/xiaopian.mp4
+公众号SYFXZJ,https://jxpan.vip/file/90489/3Ynu5fsN/piantou.mp4
+如何加群,https://jxpan.vip/file/90489/pSMgIMYY/jiaqun.mp3
+阿拉伯l 中国环球 (阿拉伯),http://live.cgtn.com/1000a/prog_index.m3u8
+阿联酋lATV 1,http://85.132.81.184:8080/atv/index.m3u8
+阿联酋lATV 2,http://85.132.81.184:8080/atv-2/index.m3u8
+阿联酋lATV 4,http://85.132.81.184:8080/atv-4/index.m3u8
+阿联酋l阿布石油,http://adtv.ercdn.net/adalemarat/adalemarat_720p.m3u8
+阿联酋l阿布体育1,http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+阿联酋l阿布体育2,http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+阿联酋l阿布戏剧,http://adtv.ercdn.net/addrama/addrama_720p.m3u8
+阿联酋l迪拜萨马,http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
+阿联酋l迪拜赛马,http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+阿联酋l星空电影,http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
+埃及l AVA 音乐频道,http://51.15.236.137/hls/stream.m3u8
+半岛电视台,http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
+德国l 超级游艇,http://cdn.mobibase.com/hls/733/258_5000k/playlist.m3u8
+俄罗斯l FM 音乐频道,http://rtmp.one.by:1200
+俄罗斯l HD 时尚频道,http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+俄罗斯l HP 音乐频道,http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
+俄罗斯l OR 音乐频道,http://rtmp.one.by:2200/
+俄罗斯l RU 音乐频道,http://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8
+俄罗斯l 俄罗斯一台,http://a787201928-s26881.cdn.ngenix.net/hls/russia_hd/playlist_3.m3u8
+俄罗斯l 军事频道,http://serv25.vintera.tv:8081/parad/patriot/playlist.m3u8
+俄罗斯l 中国环球 (俄罗斯),http://live.cgtn.com/1000r/prog_index.m3u8
+俄罗斯MTVmix Ufa,http://81.30.182.82:18092/hls/live.m3u8
+俄罗斯Nastoyashcheye Vremya,http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
+俄罗斯Shanson TV (Opt-1),http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
+俄罗斯Tjumenskoe Vremja,http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
+俄罗斯TopShop,http://tv-topshop.netrack.ru/hls/topshop.m3u8
+法France24,http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+法国Francophonie 24,http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+法国l 巴黎调频,http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
+法国l 法国24台 (英语),http://f24hls-i.akamaihd.net/hls/live/221193-b/F24_EN_LO_HLS/master_900.m3u8
+法国l 热带音乐,http://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
+法国l 中国环球 (法国),http://live.cgtn.com/1000f/prog_index.m3u8
+芬兰YLE TV 1,http://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/index_2764_av-p.m3u8
+芬兰YLE TV 2,http://yletvhdliveworld-lh.akamaihd.net/i/yletv2hdworld_1@187593/index_2764_av-p.m3u8
+韩国lEBS 儿童频道,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+韩国lKTV 韩国电视,http://218.38.152.31:1935/klive/klive.stream/playlist.m3u8
+韩国lSBS 星级频道,https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
+韩国lSBS 影视频道,https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
+韩国lUBC SBS,http://59.25.202.81:1935/live/UBCstream/chunklist_w1495115977.m3u8
+韩国lYTN 联合新闻,http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b2592000.m3u8
+韩国WFCHD，,http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
+荷兰Omroep West,http://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m3u8
+加拿大The Shopping Channel,http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+加纳TV Africa (Ghana),http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
+卡塔尔l卡斯体育,http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+拉丁美洲TV Marti,http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+罗马尼亚Iasi TV Life,http://webmobile.xdev.ro:81/tv24/playlist.m3u8?time=1464028219168
+罗马尼亚TV Kit,http://webmobile.xdev.ro:81/tv9/playlist.m3u8
+美国 | 狗狗宠物,http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+美国abc News,https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+美国CGTN (Opt-1),http://live.cgtn.com/500/prog_index.m3u8
+美国Free IPTV,http://stream.srg-ssr.ch/m/rsj/mp3_128
+美国House of Representatives,http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
+美国l FOX 体育新闻,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+美国l MTV 音乐频道,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+美国l 布兰奇电视,http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
+美国l 美国之音,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
+美国l 美国中央台,http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
+美国l 汽车频道,http://dcunilive28-lh.akamaihd.net/i/dclive_1@624563/master.m3u8
+美国l 中国环球 (美国),http://live.cgtn.com/1000/prog_index.m3u8
+美国TVW,http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
+美国本土NBC 11 News (Bay Area).,http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
+美国中文台,http://media3.sinovision.net:1935/live/livestream/playlist.m3u8
+蒙古国lMNB,http://103.14.38.107:1935/live/mnb.stream/master.m3u8
+摩洛哥Al Maghribia,http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+摩洛哥Arryadia,http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
+墨西哥l 墨西哥电视,http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+日本ntvknews,http://www.news24.jp/livestream/index.m3u8
+日本历史,http://192.240.127.34:1935/live/cs14.stream/media_1254.m3u8
+日本频道1,http://192.240.127.34:1935/live/cs11.stream/playlist.m3u8
+日本频道2,http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8
+日本频道5,http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8
+日本映畫,http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8
+日-日本映畫,http://192.240.127.34:1935/live/cs19.stream/media_1254.m3u8
+世界l 联合国台,https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
+斯洛伐克l WAU 频道,http://nn2.joj.sk/hls/wau-540.m3u8
+斯洛伐克TV 8,http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
+斯诺伐克l J O J 频道,http://nn2.joj.sk/hls/joj-540.m3u8
+泰国lNBT 曼谷频道,http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
+泰国l泰国公共台,http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
+乌克兰VOTV,http://hls.cdn.ua/vo.org.ua_live/_definst_/online-ru-hotbird-high/chunklist.m3u8
+西班牙l 啵嘤卡通台,https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_3.m3u8
+西班牙l 皇马足球,http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
+西班牙l 活力电视台,https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_3.m3u8
+西班牙l 神性电视台,https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+西班牙l 西班牙四台,https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+西班牙l 西班牙五台,https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
+西班牙Lancelot TV,http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+新西兰Three,http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
+伊拉克 Al Sharqiya,http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+意大利l Rai 电影,http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+意大利l Rai 吞咽,http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
+意大利l Rai 溢价,http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-p.m3u8
+意大利l Rai 幼幼,http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
+意大利l 意大利电台,http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
+意大利La 7,http://la7-vh.akamaihd.net/i/content/entry/data/0/299/0_b7o9lvba_0_kyyr8vxz_1.mp4/master.m3u8
+意大利m20 TV,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+意大利Rai Premium,http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+印度DD News,http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+放映广告,https://jxpan.vip/file/90489/EGROjTrR/fxgg.mp4
+放映TV,https://jxpan.vip/file/90489/zvDc0QoA/xiaopian.mp4
+公众号SYFXZJ,https://jxpan.vip/file/90489/3Ynu5fsN/piantou.mp4
+如何加群,https://jxpan.vip/file/90489/pSMgIMYY/jiaqun.mp3
