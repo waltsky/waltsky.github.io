@@ -161,10 +161,19 @@ CCTV12高清,http://tv.ncist.edu.cn:281/live/cctv12hd.flv
 湖北卫视高清,http://tv.ncist.edu.cn:281/live/hubeiwshd.flv
 港澳台,#genre#
 香港hks,http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
-翡翠台,http://bbdd.228888888.xyz:8081/hls/ch101.m3u8
-凤凰香港台,http://223.82.250.72/live/fhhongkong/1.m3u8
-凤凰资讯,http://125.210.152.18:9090/live/FHZX_1200.m3u8
-凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
+HBO亚洲,sop://p2p.cibn.cc:80/12041
+HBO HD,sop://p2p.cibn.cc:80/100010
+HBO原创巨献,sop://p2p.cibn.cc:80/100007
+HBO强档巨献,sop://p2p.cibn.cc:80/100008
+HBO温馨家庭,sop://p2p.cibn.cc:80/100009
+卫视电影台,sop://p2p.cibn.cc:80/754
+Channel[V],sop://p2p.cibn.cc:80/12046
+星空卫视,sop://p2p.cibn.cc:80/791
+澳门莲花,sop://p2p.cibn.cc:80/100000
+龙祥时代,sop://p2p.cibn.cc:80/100003
+卫视电影台HD,sop://p2p.cibn.cc:80/100004
+东森电影HD,sop://p2p.cibn.cc:80/100005
+东森洋片HD,sop://p2p.cibn.cc:80/100006
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 TVB星河,http://tvbilive14-i.akamaihd.net/hls/live/496347/CXHMovie/CXHMovie-01.m3u8
 耀才財經,http://hk.tv0668.com/dl/hk520.php?id=19
