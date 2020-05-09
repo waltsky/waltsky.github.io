@@ -161,6 +161,7 @@ CCTV12高清,http://tv.ncist.edu.cn:281/live/cctv12hd.flv
 湖北卫视高清,http://tv.ncist.edu.cn:281/live/hubeiwshd.flv
 港澳台,#genre#
 香港hks,http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
+翡翠台,http://bbdd.228888888.xyz:8081/hls/ch101.m3u8
 凤凰香港台,http://223.82.250.72/live/fhhongkong/1.m3u8
 凤凰资讯,http://125.210.152.18:9090/live/FHZX_1200.m3u8
 凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
