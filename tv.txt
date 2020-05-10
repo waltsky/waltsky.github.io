@@ -436,5 +436,3 @@ BesTV4k,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 CCTV4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 爱上4K,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
 真4k,http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
-DOX,#genre#
-DD,https://iptv-org.github.io/iptv/categories/xxx.m3u
